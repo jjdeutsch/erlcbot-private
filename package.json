@@ -1,0 +1,9 @@
+{
+  "name": "erlc-discord-bot",
+  "version": "1.0.0",
+  "description": "Private ERLC Discord Bot",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^14.13.0"
+  }
+}
