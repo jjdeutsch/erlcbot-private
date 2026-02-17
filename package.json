@@ -1,9 +1,12 @@
 {
-  "name": "erlc-discord-bot",
+  "name": "erlc-dashboard-bot",
   "version": "1.0.0",
-  "description": "Private ERLC Discord Bot",
   "main": "index.js",
   "dependencies": {
-    "discord.js": "^14.13.0"
+    "discord.js": "^14.13.0",
+    "express": "^4.18.2",
+    "ejs": "^3.1.9",
+    "uuid": "^9.0.0",
+    "body-parser": "^1.20.2"
   }
 }
